@@ -117,6 +117,7 @@ border-bottom-style: solid;
     border-top-width: 1px;
     border-top-style: solid;
     border-color: gray;
+    
 }
 
 .main-footer-container {
@@ -130,12 +131,13 @@ border-bottom-style: solid;
 }
 
 .footer-nav li {
-    padding: 0 .5em;
+    padding: 0;
 }
 
+
 .footer-nav img {
-    width: 30px;
-    height: 30px;
+    width: 35px;
+    height: 35px;
 }
 
 .btn {
@@ -183,6 +185,7 @@ border-bottom-style: solid;
 
 .btn-primary:hover {
     background-color: gold;
+    color: black;
 }
 
 .tour-row {
